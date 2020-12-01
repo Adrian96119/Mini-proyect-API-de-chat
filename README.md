@@ -1,6 +1,6 @@
 # Mini-proyect-API-de-chat by Adrian Madrid
 
-![imagen]!(C:\Users\Adrian\Desktop\Mini-proyect-API-de-chat/logo_flask.jpg)
+![imagen]!(./logo_flask.jpg)
 
 ## DESCRIPCION 
 
@@ -58,7 +58,7 @@ POR ULTIMO, PARA CADA ERROR QUE ME HA SALIDO AL HACER PETICIONES O PUBLICACIONES
 #CON MENSAJES MIOS PARA SABER LO QUE SON Y QUE ME SEA MAS FACIL CONTROLARLOS. ESTÁN EN LA PARTE DE ABAJO DEL CODIGO.
 
 
-![IMAGEN](C:\Users\Adrian\Desktop\Mini-proyect-API-de-chat/apis_everywhere.png)
+![IMAGEN](./apis_everywhere.png)
 
 
 
