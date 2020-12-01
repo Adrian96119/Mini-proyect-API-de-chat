@@ -1,6 +1,6 @@
 # Mini-proyect-API-de-chat by Adrian Madrid
 
-![imagen]!(./logo_flask.jpg)
+
 
 ## DESCRIPCION 
 
